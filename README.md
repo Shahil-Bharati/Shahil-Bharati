@@ -58,17 +58,6 @@
 
 ## 📌 Featured Projects
 
-### 🍔 FoodExpress
-
-A restaurant ordering platform with online ordering, restaurant management and real-time order notifications.
-
-**Tech:** PHP • MySQL • JavaScript • Pusher
-
-### 🤖 Algorithmic Trading Bot
-
-An automated trading system focused on strategy-based market analysis, risk management and paper trading.
-
-**Tech:** Python • APIs • Trading Strategies • Risk Management
 
 ### 🌐 Portfolio Website
 
